@@ -23,10 +23,8 @@ section nav{
     left: 0;
     z-index: 100;
 }
-.logo{
-    position: relative;
-    border-top: 100px solid #ea4335;
-    border-right: 100px #4285f4;
-    width: 300px;
-    
-}
+
+ section nav .logo img{
+     width: 100px;
+     cursor: pointer;
+ }
