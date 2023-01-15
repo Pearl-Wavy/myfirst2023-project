@@ -25,7 +25,8 @@ section nav {
     z-index: 100;
 }
 
-section nav .logo img {
+section nav .logo img{
     width: 100px;
-    cursor: pointer;
+    cursor: pointer; 
+    margin: 8px 0;
 }
