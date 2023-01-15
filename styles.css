@@ -49,12 +49,12 @@ section nav ul{
      color: #089da1; 
 
    }
-   section nav .social_icon i{
+   section nav .socials_icon i{
     margin: 0 5px;
     font-size: 18px;
    }
 
-   section nav .social_icon i:hover{
+   section nav .socials_icon i:hover{
     color: #089da1;
     cursor: pointer;
    }
