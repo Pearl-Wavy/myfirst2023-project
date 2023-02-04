@@ -155,4 +155,28 @@ section nav ul{
                     justify-content: space-around;
                 }
 
-                
+                .about .about_image img{
+                    width: 800px;
+                }
+
+                .about .about_tag h1{
+                    font-size: 50px;
+                    position:relative;
+                    bottom: 35px;
+                }
+
+                .about .about_tag p{
+                   line-height: 22px;
+                   width: 650px;
+                   text-align: justify;
+                   margin-bottom: 15px; 
+                }
+
+                .about .about_tag .about_html{
+                    padding: 10px 20px;
+                    background:#089da1;
+                    color: #fff;
+                    text-decoration: none;
+                    position: relative;
+                    top: 50px;
+                }
